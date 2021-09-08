@@ -2,11 +2,15 @@ package sample
 
 import (
 	"math/rand"
+	"time"
 
 	"github.com/google/uuid"
 	"github.com/nchukkaio/gopc/pb"
 )
 
+func init() {
+	rand.Seed(time.Now().UnixNano())
+}
 func randomBool() bool {
 	return rand.Intn(2) == 1
 }
