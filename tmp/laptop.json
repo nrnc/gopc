@@ -1,62 +1,62 @@
 {
-  "id": "670e5d2b-60ca-4f59-9020-9b80da742cda",
-  "brand": "Dell",
-  "name": "XPS",
-  "cpu": {
-    "brand": "AMD",
-    "name": "Ryzen 3 PRO 3200GE",
-    "number_cores": 6,
-    "number_threads": 11,
-    "min_ghz": 2.874538866226561,
-    "max_ghz": 4.261941617704005
+  "id":  "8e274c70-9aba-4d81-9889-a3854db64831",
+  "brand":  "Apple",
+  "name":  "Macbook Air",
+  "cpu":  {
+    "brand":  "Intel",
+    "name":  "Xeon E-2286M",
+    "number_cores":  2,
+    "number_threads":  10,
+    "min_ghz":  3.1368791148465,
+    "max_ghz":  3.6690255812800237
   },
-  "ram": {
-    "value": "15",
-    "unit": "GIGABYTE"
+  "ram":  {
+    "value":  "44",
+    "unit":  "GIGABYTE"
   },
-  "gpus": [
+  "gpus":  [
     {
-      "brand": "Nvidia",
-      "name": "GTX 1070",
-      "min_ghz": 1.2961083953808819,
-      "max_ghz": 1.3846822528381777,
-      "memory": {
-        "value": "5",
-        "unit": "GIGABYTE"
+      "brand":  "Nvidia",
+      "name":  "RTX 2060",
+      "min_ghz":  1.1650945015265741,
+      "max_ghz":  1.3608206570321932,
+      "memory":  {
+        "value":  "3",
+        "unit":  "GIGABYTE"
       }
     }
   ],
-  "storages": [
+  "storages":  [
     {
-      "driver": "SSD",
-      "memory": {
-        "value": "871",
-        "unit": "GIGABYTE"
+      "driver":  "SSD",
+      "memory":  {
+        "value":  "429",
+        "unit":  "GIGABYTE"
       }
     },
     {
-      "driver": "HDD",
-      "memory": {
-        "value": "5",
-        "unit": "TERABYTE"
+      "driver":  "HDD",
+      "memory":  {
+        "value":  "5",
+        "unit":  "TERABYTE"
       }
     }
   ],
-  "screen": {
-    "size_inch": 13.400876,
-    "resolution": {
-      "width": 6769,
-      "height": 3808
+  "screen":  {
+    "size_inch":  13.668606,
+    "resolution":  {
+      "width":  3831,
+      "height":  2155
     },
-    "panel": "IPS",
-    "multitouch": true
+    "panel":  "IPS",
+    "multitouch":  false
   },
-  "keyboard": {
-    "layout": "QWERTZ",
-    "backlit": true
+  "keyboard":  {
+    "layout":  "QWERTY",
+    "backlit":  true
   },
-  "weight_kg": 1.1530405381817515,
-  "price_usd": 2100.619784684196,
-  "release_year": 2018,
-  "updated_at": "2021-09-08T14:56:05.529765Z"
+  "weight_kg":  1.7472402708958834,
+  "price_usd":  2210.208039149954,
+  "release_year":  2019,
+  "updated_at":  "2021-09-08T19:56:10.441716Z"
 }
