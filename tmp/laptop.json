@@ -1,25 +1,25 @@
 {
-  "id":  "8e274c70-9aba-4d81-9889-a3854db64831",
-  "brand":  "Apple",
-  "name":  "Macbook Air",
+  "id":  "21305701-3737-45bb-9631-93d2dd1838c3",
+  "brand":  "Lenovo",
+  "name":  "Thinkpad P53",
   "cpu":  {
     "brand":  "Intel",
-    "name":  "Xeon E-2286M",
-    "number_cores":  2,
+    "name":  "Core i7-9750H",
+    "number_cores":  3,
     "number_threads":  10,
-    "min_ghz":  3.1368791148465,
-    "max_ghz":  3.6690255812800237
+    "min_ghz":  2.3464654769798643,
+    "max_ghz":  4.298352433432311
   },
   "ram":  {
-    "value":  "44",
+    "value":  "60",
     "unit":  "GIGABYTE"
   },
   "gpus":  [
     {
       "brand":  "Nvidia",
-      "name":  "RTX 2060",
-      "min_ghz":  1.1650945015265741,
-      "max_ghz":  1.3608206570321932,
+      "name":  "RTX 2070",
+      "min_ghz":  1.3144408022178646,
+      "max_ghz":  1.3603871484034042,
       "memory":  {
         "value":  "3",
         "unit":  "GIGABYTE"
@@ -30,33 +30,33 @@
     {
       "driver":  "SSD",
       "memory":  {
-        "value":  "429",
+        "value":  "576",
         "unit":  "GIGABYTE"
       }
     },
     {
       "driver":  "HDD",
       "memory":  {
-        "value":  "5",
+        "value":  "1",
         "unit":  "TERABYTE"
       }
     }
   ],
   "screen":  {
-    "size_inch":  13.668606,
+    "size_inch":  15.488401,
     "resolution":  {
-      "width":  3831,
-      "height":  2155
+      "width":  6472,
+      "height":  3641
     },
     "panel":  "IPS",
-    "multitouch":  false
+    "multitouch":  true
   },
   "keyboard":  {
-    "layout":  "QWERTY",
-    "backlit":  true
+    "layout":  "AZERTY",
+    "backlit":  false
   },
-  "weight_kg":  1.7472402708958834,
-  "price_usd":  2210.208039149954,
-  "release_year":  2019,
-  "updated_at":  "2021-09-08T19:56:10.441716Z"
+  "weight_kg":  1.2972087665618315,
+  "price_usd":  3270.2348371708968,
+  "release_year":  2016,
+  "updated_at":  "2021-09-09T20:06:33.065497Z"
 }
