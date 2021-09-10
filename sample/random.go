@@ -65,6 +65,9 @@ func randomFloat64(min, max float64) float64 {
 func randomGPUBrand() string {
 	return randomStringFromSet("Nvidia", "AMD")
 }
+func RandomLaptopScore() float64 {
+	return float64(randomInt(1, 10))
+}
 
 func randomGPUName(brand string) string {
 	if brand == "Nvidia" {

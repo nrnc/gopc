@@ -1,62 +1,62 @@
 {
-  "id":  "797140fc-9093-410e-9f54-6beffc990d40",
-  "brand":  "Dell",
-  "name":  "Alienware",
-  "cpu":  {
-    "brand":  "Intel",
-    "name":  "Core i9-9980HK",
-    "number_cores":  5,
-    "number_threads":  10,
-    "min_ghz":  2.743811508443926,
-    "max_ghz":  2.946725216029801
+  "id": "e7a8ba49-051e-448b-b022-bed659e3519e",
+  "brand": "Lenovo",
+  "name": "Thinkpad P53",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-9980HK",
+    "number_cores": 5,
+    "number_threads": 12,
+    "min_ghz": 2.0531931992066896,
+    "max_ghz": 4.471799964775266
   },
-  "ram":  {
-    "value":  "5",
-    "unit":  "GIGABYTE"
+  "ram": {
+    "value": "56",
+    "unit": "GIGABYTE"
   },
-  "gpus":  [
+  "gpus": [
     {
-      "brand":  "AMD",
-      "name":  "RX 580",
-      "min_ghz":  1.216346127759919,
-      "max_ghz":  1.5063554302325557,
-      "memory":  {
-        "value":  "2",
-        "unit":  "GIGABYTE"
+      "brand": "Nvidia",
+      "name": "GTX 1660-Ti",
+      "min_ghz": 1.2616053856318805,
+      "max_ghz": 1.5657217970240584,
+      "memory": {
+        "value": "4",
+        "unit": "GIGABYTE"
       }
     }
   ],
-  "storages":  [
+  "storages": [
     {
-      "driver":  "SSD",
-      "memory":  {
-        "value":  "911",
-        "unit":  "GIGABYTE"
+      "driver": "SSD",
+      "memory": {
+        "value": "1010",
+        "unit": "GIGABYTE"
       }
     },
     {
-      "driver":  "HDD",
-      "memory":  {
-        "value":  "5",
-        "unit":  "TERABYTE"
+      "driver": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
       }
     }
   ],
-  "screen":  {
-    "size_inch":  15.275972,
-    "resolution":  {
-      "width":  3708,
-      "height":  2086
+  "screen": {
+    "size_inch": 15.822075,
+    "resolution": {
+      "width": 6542,
+      "height": 3680
     },
-    "panel":  "OLED",
-    "multitouch":  false
+    "panel": "OLED",
+    "multitouch": false
   },
-  "keyboard":  {
-    "layout":  "QWERTZ",
-    "backlit":  true
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": false
   },
-  "weight_kg":  2.963492414720524,
-  "price_usd":  3077.5365493010795,
-  "release_year":  2017,
-  "updated_at":  "2021-09-10T12:31:39.069511Z"
+  "weight_kg": 1.096912693518024,
+  "price_usd": 2883.883770158529,
+  "release_year": 2015,
+  "updated_at": "2021-09-10T13:26:27.283364Z"
 }
