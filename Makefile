@@ -10,7 +10,7 @@ run:
 	go run main.go
 
 test:
-	go test -cover -race ./...
+	go test -v -cover -race ./...
 
 server:
 	go run cmd/server/main.go --port 8080

@@ -1,27 +1,27 @@
 {
-  "id":  "21305701-3737-45bb-9631-93d2dd1838c3",
-  "brand":  "Lenovo",
-  "name":  "Thinkpad P53",
+  "id":  "797140fc-9093-410e-9f54-6beffc990d40",
+  "brand":  "Dell",
+  "name":  "Alienware",
   "cpu":  {
     "brand":  "Intel",
-    "name":  "Core i7-9750H",
-    "number_cores":  3,
+    "name":  "Core i9-9980HK",
+    "number_cores":  5,
     "number_threads":  10,
-    "min_ghz":  2.3464654769798643,
-    "max_ghz":  4.298352433432311
+    "min_ghz":  2.743811508443926,
+    "max_ghz":  2.946725216029801
   },
   "ram":  {
-    "value":  "60",
+    "value":  "5",
     "unit":  "GIGABYTE"
   },
   "gpus":  [
     {
-      "brand":  "Nvidia",
-      "name":  "RTX 2070",
-      "min_ghz":  1.3144408022178646,
-      "max_ghz":  1.3603871484034042,
+      "brand":  "AMD",
+      "name":  "RX 580",
+      "min_ghz":  1.216346127759919,
+      "max_ghz":  1.5063554302325557,
       "memory":  {
-        "value":  "3",
+        "value":  "2",
         "unit":  "GIGABYTE"
       }
     }
@@ -30,33 +30,33 @@
     {
       "driver":  "SSD",
       "memory":  {
-        "value":  "576",
+        "value":  "911",
         "unit":  "GIGABYTE"
       }
     },
     {
       "driver":  "HDD",
       "memory":  {
-        "value":  "1",
+        "value":  "5",
         "unit":  "TERABYTE"
       }
     }
   ],
   "screen":  {
-    "size_inch":  15.488401,
+    "size_inch":  15.275972,
     "resolution":  {
-      "width":  6472,
-      "height":  3641
+      "width":  3708,
+      "height":  2086
     },
-    "panel":  "IPS",
-    "multitouch":  true
+    "panel":  "OLED",
+    "multitouch":  false
   },
   "keyboard":  {
-    "layout":  "AZERTY",
-    "backlit":  false
+    "layout":  "QWERTZ",
+    "backlit":  true
   },
-  "weight_kg":  1.2972087665618315,
-  "price_usd":  3270.2348371708968,
-  "release_year":  2016,
-  "updated_at":  "2021-09-09T20:06:33.065497Z"
+  "weight_kg":  2.963492414720524,
+  "price_usd":  3077.5365493010795,
+  "release_year":  2017,
+  "updated_at":  "2021-09-10T12:31:39.069511Z"
 }
